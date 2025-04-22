@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
-
+// version 6.0
 public class JavaApplication7 {
 
     static Scanner sc = new Scanner(System.in);
